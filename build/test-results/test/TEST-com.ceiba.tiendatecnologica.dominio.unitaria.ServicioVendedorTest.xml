@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ceiba.tiendatecnologica.dominio.unitaria.ServicioVendedorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-07-17T19:55:43" hostname="DESKTOP-F30ROVG" time="0.58">
+  <properties/>
+  <testcase name="productoNoTieneGarantiaTest" classname="com.ceiba.tiendatecnologica.dominio.unitaria.ServicioVendedorTest" time="0.579"/>
+  <testcase name="productoYaTieneGarantiaTest" classname="com.ceiba.tiendatecnologica.dominio.unitaria.ServicioVendedorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
